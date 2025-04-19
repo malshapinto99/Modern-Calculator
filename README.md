@@ -18,7 +18,8 @@ A modern and stylish glass-effect calculator built with **HTML, CSS, and JavaScr
    ```bash
    git clone https://github.com/your-username/Modern-Calculator.git
    ```  
-2. Open `calculator.html` in your browser.  
+2. Open `calculator.html` in your browser.
+[DEMO](https://glass-calculator-ecru.vercel.app/) 
 
 ## 📸 Preview  
 ![Calculator Preview](![image](https://github.com/user-attachments/assets/2d28ba81-3441-4196-a45c-9ac6b0f7d16d)
